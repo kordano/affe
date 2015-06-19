@@ -1,15 +1,26 @@
-# affe
+* affe
 
 Just some examples for gorilla repl plotting using ggplot.
 Worksheet can be found [here](http://viewer.gorilla-repl.org/view.html?source=github&user=kordano&repo=affe&path=worksheets/examples.clj).
 
-## Usage
+** Usage
 
 ```
 lein gorilla
 ```
 
-## License
+** License
+
+
+* TODOs
+* TODO just do it                                                      :work:
+  DEADLINE: <2015-06-19 Fr>
+  :PROPERTIES:
+  :Created: [2015-06-19 Fr 23:03]
+  :Associated_file: [[/home/konny/projects/affe/src/affe/core.clj]]
+  :Assigned_to: kordano
+  :END:
+  
 
 Copyright © 2015 Konrad Kühne
 
